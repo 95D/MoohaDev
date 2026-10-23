@@ -1,0 +1,23 @@
+{
+  "name": "dev.headwind.mooha",
+  "version": "0.1.0",
+  "displayName": "Mooha",
+  "description": "Async resource loading for Unity with a Glide-style request model: typed requests, pluggable sources, placeholder/default states, and an LRU memory cache that keeps released Addressable resources alive across screen transitions.",
+  "unity": "2023.2",
+  "keywords": [
+    "resource",
+    "loading",
+    "addressables",
+    "cache",
+    "sprite",
+    "texture",
+    "ui-toolkit"
+  ],
+  "author": {
+    "name": "Headwind"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.addressables": "2.9.1"
+  }
+}
