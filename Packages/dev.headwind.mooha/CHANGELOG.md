@@ -7,7 +7,7 @@ All notable changes to this package are documented here. The format follows
 A version is dated once it is tagged. Until then it carries no date and its entries may still
 change.
 
-## [0.1.0] - Unreleased
+## [0.1.0] - 2026-10-24
 
 Initial release.
 
