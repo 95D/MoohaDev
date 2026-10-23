@@ -1,0 +1,20 @@
+{
+    "name": "Headwind.Mooha.Editor",
+    "rootNamespace": "Headwind.Mooha.Editor",
+    "references": [
+        "Headwind.Mooha",
+        "Unity.Addressables",
+        "Unity.Addressables.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
